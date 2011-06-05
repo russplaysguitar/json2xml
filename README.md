@@ -1,4 +1,4 @@
-﻿# Intro
+# Intro
 I like xml. I like json. I like javascript.
 So I made a little tool to convert from json to xml.
 There is a nice xml2json tool here.
@@ -9,9 +9,9 @@ v0.1 (demo [here](http://dev.federalbureauofinhumanity.org/json2xml/v0.1/)) : in
 
 # How to use
 First, import the js file :
-    <script type="text/javascript" src="json2xml.js"></script>
-Then, do something like this :
-    var xml = json2xml.convert(obj, "data");
+<pre><script type="text/javascript" src="json2xml.js"></script></pre>
+Then, do something like this : 
+<pre>var xml = json2xml.convert(obj, "data");</pre>
 This will convert your json object (obj) to xml.
 
 ## Parameters
