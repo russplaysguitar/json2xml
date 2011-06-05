@@ -9,9 +9,9 @@ v0.1 (demo [here](http://dev.federalbureauofinhumanity.org/json2xml/v0.1/)) : in
 
 # How to use
 First, import the js file :
-	<script type="text/javascript" src="json2xml.js"></script>
+    <script type="text/javascript" src="json2xml.js"></script>
 Then, do something like this :
-	var xml = json2xml.convert(obj, "data");
+    var xml = json2xml.convert(obj, "data");
 This will convert your json object (obj) to xml.
 
 ## Parameters
