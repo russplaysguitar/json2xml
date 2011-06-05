@@ -1,7 +1,6 @@
 # Intro
 I like xml. I like json. I like javascript.
 So I made a little tool to convert from json to xml.
-There is a nice xml2json tool here.
 
 ## Changelog
 Last version is v0.1
