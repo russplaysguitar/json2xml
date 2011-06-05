@@ -3,7 +3,7 @@ I like xml. I like json. I like javascript.
 So I made a little tool to convert from json to xml.
 
 ## Changelog
-Last version is v0.1
+Last version is v0.1  
 *  v0.1 (demo [here](http://dev.federalbureauofinhumanity.org/json2xml/v0.1/)) : initial version
 
 # How to use
@@ -14,8 +14,8 @@ This will convert your json object (obj) to xml.
 
 ## Parameters
 
-The json2xml.convert function needs 2 parameters :
-*  The json object (called "obj" in the example).
+The json2xml.convert function needs 2 parameters :  
+*  The json object (called "obj" in the example).  
 *  The xml root name ("data" in the example).
 
 # License
