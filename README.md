@@ -15,8 +15,8 @@ This will convert your json object (obj) to xml.
 ## Parameters
 
 The json2xml.convert function needs 2 parameters :
-  * the json object (called "obj" in the example).
-  * the xml root name ("data" in the example).
+* the json object (called "obj" in the example).
+* the xml root name ("data" in the example).
 
 # License
 This plugin is licensed under the terms of the WTF Public License (see [here](http://en.wikipedia.org/wiki/WTFPL) and [here](http://sam.zoy.org/wtfpl/)) :
